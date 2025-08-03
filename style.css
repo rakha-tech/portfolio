@@ -17,6 +17,10 @@
   --gradient: linear-gradient(135deg, #00ff88, #00cc6a);
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   font-family: "Segoe UI", Arial, sans-serif;
   background-color: var(--bg-primary);
@@ -76,6 +80,10 @@ nav {
   font-size: 24px;
   font-weight: bold;
   color: var(--accent);
+}
+
+.logo span {
+  color: var(--text-primary);
 }
 
 .nav-menu {
