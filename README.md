@@ -44,9 +44,9 @@ Showcase your work, skills and contact info in a modern dark-themed interface th
 
 ## 📁 Project Structure
 
-rakha-tech/
-├── index.html # Main page
-├── style.css # All styles (responsive, dark theme)
-├── script.js # Interactions & animations
-├── /img # Images, screenshots & favicons
-└── README.md # This file
+rakha-tech/ </br>
+├── index.html # Main page </br>
+├── style.css # All styles (responsive, dark theme) </br>
+├── script.js # Interactions & animations </br>
+├── /img # Images, screenshots & favicons </br>
+└── README.md # This file </br>
